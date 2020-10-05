@@ -1,6 +1,6 @@
 # MATH6380P: Mini Project 1
 
-In this repository, we provide our poster and codes for MATH6380P: Mini Project 1.
+In this repository, we provide our [poster](./Poster.pdf) and codes for MATH6380P: Mini Project 1.
 
 ## Requirement
 To install the required libraries to run, please ``pip install -r requirement.txt``.
